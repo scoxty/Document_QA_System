@@ -5,3 +5,8 @@
 # 原理
 ![image](https://github.com/user-attachments/assets/0d85efe7-0bcb-46da-abfd-77d30196e8c3)
 如图，先把本地知识切片后做Embedding，存储到向量数据库中，然后把用户的输入和从向量数据库中检索到的本地知识传递给大模型，最终生成所想要的回答
+# 运行效果
+![image](https://github.com/user-attachments/assets/15710cb6-c23d-4108-a82d-e05e9d2bf7f3)
+
+
+
